@@ -1,5 +1,8 @@
 🪙 BlOClatCh: The On-Chain Pairing Game
 
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/0d1d2c17-dd14-4a02-b17a-9efccb96ccda" />
+
+
 💡 Project Description
 
 BlOClatCh is a simple, educational Solidity smart contract designed to explore one of the most fundamental challenges in blockchain development: generating verifiable randomness for games.
@@ -148,5 +151,6 @@ Clone this repository.
 Compile the code using a tool like Remix or Hardhat.
 
 Deploy it to a testnet (e.g., Sepolia).
+
 
 Interact with the play() function to see the results and observe the emitted events!
